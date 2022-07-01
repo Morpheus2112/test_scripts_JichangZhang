@@ -120,4 +120,4 @@ mutations(report2$ref_seq[1],report2$amp_seq[1])
 ### export csv #####
 write.csv(report2, "report2.csv")
 
-
+sessionInfo()
